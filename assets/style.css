@@ -470,7 +470,7 @@ button {
 
 body {
     font: 400 clamp(18px, 1.3888888889vw, 26.6666666667px)/1.5"Neue Montreal";
-   background: linear-gradient(to right bottom, #9ac1a4, rgb(239, 246, 255), rgb(247, 250, 203))
+   /* background: linear-gradient(to right bottom, #9ac1a4, rgb(239, 246, 255), rgb(247, 250, 203)) */
 }
 
 body.toSingle .lettres .tab {
