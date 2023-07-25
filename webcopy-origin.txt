@@ -50,143 +50,143 @@ Uri: https://tuxkarma.co/projets/matiere-infinie/
 File Name: C:\Downloaded Web Sites\tuxkarma.co\projets\matiere-infinie\index.html
 Content Type: text/html
 
-Uri: https://tuxkarma.co/wp-content/themes/karma/img/burger.svg
+Uri: https://tuxkarma.co//assets/img/burger.svg
 File Name: C:\Downloaded Web Sites\tuxkarma.co\wp-content\themes\karma\img\burger.svg
 Content Type: image/svg+xml
 
-Uri: https://tuxkarma.co/wp-content/themes/karma/img/close.svg
+Uri: https://tuxkarma.co//assets/img/close.svg
 File Name: C:\Downloaded Web Sites\tuxkarma.co\wp-content\themes\karma\img\close.svg
 Content Type: image/svg+xml
 
-Uri: https://tuxkarma.co/wp-content/themes/karma/img/dot.gif
+Uri: https://tuxkarma.co//assets/img/dot.gif
 File Name: C:\Downloaded Web Sites\tuxkarma.co\wp-content\themes\karma\img\dot.gif
 Content Type: image/gif
 
-Uri: https://tuxkarma.co/wp-content/themes/karma/img/favicon/apple-touch-icon.png
+Uri: https://tuxkarma.co//assets/img/favicon/apple-touch-icon.png
 File Name: C:\Downloaded Web Sites\tuxkarma.co\wp-content\themes\karma\img\favicon\apple-touch-icon.png
 Content Type: image/png
 
-Uri: https://tuxkarma.co/wp-content/themes/karma/img/favicon/favicon-32x32.png
+Uri: https://tuxkarma.co//assets/img/favicon/favicon-32x32.png
 File Name: C:\Downloaded Web Sites\tuxkarma.co\wp-content\themes\karma\img\favicon\favicon-32x32.png
 Content Type: image/png
 
-Uri: https://tuxkarma.co/wp-content/themes/karma/img/favicon/safari-pinned-tab.svg
+Uri: https://tuxkarma.co//assets/img/favicon/safari-pinned-tab.svg
 File Name: C:\Downloaded Web Sites\tuxkarma.co\wp-content\themes\karma\img\favicon\safari-pinned-tab.svg
 Content Type: image/svg+xml
 
-Uri: https://tuxkarma.co/wp-content/themes/karma/img/favicon/site.webmanifest
+Uri: https://tuxkarma.co//assets/img/favicon/site.webmanifest
 File Name: C:\Downloaded Web Sites\tuxkarma.co\wp-content\themes\karma\img\favicon\site.webmanifest
 Content Type: 
 
-Uri: https://tuxkarma.co/wp-content/themes/karma/img/formes/1b.svg
+Uri: https://tuxkarma.co//assets/img/formes/1b.svg
 File Name: C:\Downloaded Web Sites\tuxkarma.co\wp-content\themes\karma\img\formes\1b.svg
 Content Type: image/svg+xml
 
-Uri: https://tuxkarma.co/wp-content/themes/karma/img/formes/2b.svg
+Uri: https://tuxkarma.co//assets/img/formes/2b.svg
 File Name: C:\Downloaded Web Sites\tuxkarma.co\wp-content\themes\karma\img\formes\2b.svg
 Content Type: image/svg+xml
 
-Uri: https://tuxkarma.co/wp-content/themes/karma/img/formes/3b.svg
+Uri: https://tuxkarma.co//assets/img/formes/3b.svg
 File Name: C:\Downloaded Web Sites\tuxkarma.co\wp-content\themes\karma\img\formes\3b.svg
 Content Type: image/svg+xml
 
-Uri: https://tuxkarma.co/wp-content/themes/karma/img/formes/4b.svg
+Uri: https://tuxkarma.co//assets/img/formes/4b.svg
 File Name: C:\Downloaded Web Sites\tuxkarma.co\wp-content\themes\karma\img\formes\4b.svg
 Content Type: image/svg+xml
 
-Uri: https://tuxkarma.co/wp-content/themes/karma/img/formes/5b.svg
+Uri: https://tuxkarma.co//assets/img/formes/5b.svg
 File Name: C:\Downloaded Web Sites\tuxkarma.co\wp-content\themes\karma\img\formes\5b.svg
 Content Type: image/svg+xml
 
-Uri: https://tuxkarma.co/wp-content/themes/karma/img/formes/6b.svg
+Uri: https://tuxkarma.co//assets/img/formes/6b.svg
 File Name: C:\Downloaded Web Sites\tuxkarma.co\wp-content\themes\karma\img\formes\6b.svg
 Content Type: image/svg+xml
 
-Uri: https://tuxkarma.co/wp-content/themes/karma/img/formes/7b.svg
+Uri: https://tuxkarma.co//assets/img/formes/7b.svg
 File Name: C:\Downloaded Web Sites\tuxkarma.co\wp-content\themes\karma\img\formes\7b.svg
 Content Type: image/svg+xml
 
-Uri: https://tuxkarma.co/wp-content/themes/karma/img/logo_small.svg
+Uri: https://tuxkarma.co//assets/img/logo_small.svg
 File Name: C:\Downloaded Web Sites\tuxkarma.co\wp-content\themes\karma\img\logo_small.svg
 Content Type: image/svg+xml
 
-Uri: https://tuxkarma.co/wp-content/themes/karma/img/noise.png
+Uri: https://tuxkarma.co//assets/img/noise.png
 File Name: C:\Downloaded Web Sites\tuxkarma.co\wp-content\themes\karma\img\noise.png
 Content Type: image/png
 
-Uri: https://tuxkarma.co/wp-content/themes/karma/img/paypal.png
+Uri: https://tuxkarma.co//assets/img/paypal.png
 File Name: C:\Downloaded Web Sites\tuxkarma.co\wp-content\themes\karma\img\paypal.png
 Content Type: image/png
 
-Uri: https://tuxkarma.co/wp-content/themes/karma/img/social/fb.svg
+Uri: https://tuxkarma.co//assets/img/social/fb.svg
 File Name: C:\Downloaded Web Sites\tuxkarma.co\wp-content\themes\karma\img\social\fb.svg
 Content Type: image/svg+xml
 
-Uri: https://tuxkarma.co/wp-content/themes/karma/img/social/in.svg
+Uri: https://tuxkarma.co//assets/img/social/in.svg
 File Name: C:\Downloaded Web Sites\tuxkarma.co\wp-content\themes\karma\img\social\in.svg
 Content Type: image/svg+xml
 
-Uri: https://tuxkarma.co/wp-content/themes/karma/img/social/mail.svg
+Uri: https://tuxkarma.co//assets/img/social/mail.svg
 File Name: C:\Downloaded Web Sites\tuxkarma.co\wp-content\themes\karma\img\social\mail.svg
 Content Type: image/svg+xml
 
-Uri: https://tuxkarma.co/wp-content/themes/karma/img/social/tw.svg
+Uri: https://tuxkarma.co//assets/img/social/tw.svg
 File Name: C:\Downloaded Web Sites\tuxkarma.co\wp-content\themes\karma\img\social\tw.svg
 Content Type: image/svg+xml
 
-Uri: https://tuxkarma.co/wp-content/themes/karma/img/star.svg
+Uri: https://tuxkarma.co//assets/img/star.svg
 File Name: C:\Downloaded Web Sites\tuxkarma.co\wp-content\themes\karma\img\star.svg
 Content Type: image/svg+xml
 
-Uri: https://tuxkarma.co/wp-content/themes/karma/js/app.js
+Uri: https://tuxkarma.co//assets/js/app.js
 File Name: C:\Downloaded Web Sites\tuxkarma.co\wp-content\themes\karma\js\app.js
 Content Type: application/x-javascript
 
-Uri: https://tuxkarma.co/wp-content/themes/karma/style.css
+Uri: https://tuxkarma.co//assets/style.css
 File Name: C:\Downloaded Web Sites\tuxkarma.co\wp-content\themes\karma\style.css
 Content Type: text/css
 
-Uri: https://tuxkarma.co/wp-content/themes/karma/t/BasisGrotesquePro-Regular.woff
+Uri: https://tuxkarma.co//assets/t/BasisGrotesquePro-Regular.woff
 File Name: C:\Downloaded Web Sites\tuxkarma.co\wp-content\themes\karma\t\BasisGrotesquePro-Regular.woff
 Content Type: application/font-woff
 
-Uri: https://tuxkarma.co/wp-content/themes/karma/t/BasisGrotesquePro-Regular.woff2
+Uri: https://tuxkarma.co//assets/t/BasisGrotesquePro-Regular.woff2
 File Name: C:\Downloaded Web Sites\tuxkarma.co\wp-content\themes\karma\t\BasisGrotesquePro-Regular.woff2
 Content Type: application/font-woff2
 
-Uri: https://tuxkarma.co/wp-content/themes/karma/t/EditorialNew-Light.woff
+Uri: https://tuxkarma.co//assets/t/EditorialNew-Light.woff
 File Name: C:\Downloaded Web Sites\tuxkarma.co\wp-content\themes\karma\t\EditorialNew-Light.woff
 Content Type: application/font-woff
 
-Uri: https://tuxkarma.co/wp-content/themes/karma/t/EditorialNew-Light.woff2
+Uri: https://tuxkarma.co//assets/t/EditorialNew-Light.woff2
 File Name: C:\Downloaded Web Sites\tuxkarma.co\wp-content\themes\karma\t\EditorialNew-Light.woff2
 Content Type: application/font-woff2
 
-Uri: https://tuxkarma.co/wp-content/themes/karma/t/NeueMontreal-Medium.woff
+Uri: https://tuxkarma.co//assets/t/NeueMontreal-Medium.woff
 File Name: C:\Downloaded Web Sites\tuxkarma.co\wp-content\themes\karma\t\NeueMontreal-Medium.woff
 Content Type: application/font-woff
 
-Uri: https://tuxkarma.co/wp-content/themes/karma/t/NeueMontreal-Medium.woff2
+Uri: https://tuxkarma.co//assets/t/NeueMontreal-Medium.woff2
 File Name: C:\Downloaded Web Sites\tuxkarma.co\wp-content\themes\karma\t\NeueMontreal-Medium.woff2
 Content Type: application/font-woff2
 
-Uri: https://tuxkarma.co/wp-content/themes/karma/t/NeueMontreal-Regular.woff
+Uri: https://tuxkarma.co//assets/t/NeueMontreal-Regular.woff
 File Name: C:\Downloaded Web Sites\tuxkarma.co\wp-content\themes\karma\t\NeueMontreal-Regular.woff
 Content Type: application/font-woff
 
-Uri: https://tuxkarma.co/wp-content/themes/karma/t/NeueMontreal-Regular.woff2
+Uri: https://tuxkarma.co//assets/t/NeueMontreal-Regular.woff2
 File Name: C:\Downloaded Web Sites\tuxkarma.co\wp-content\themes\karma\t\NeueMontreal-Regular.woff2
 Content Type: application/font-woff2
 
-Uri: https://tuxkarma.co/wp-content/themes/karma/t/Parabole-DisplayRegular.woff
+Uri: https://tuxkarma.co//assets/t/Parabole-DisplayRegular.woff
 File Name: C:\Downloaded Web Sites\tuxkarma.co\wp-content\themes\karma\t\Parabole-DisplayRegular.woff
 Content Type: application/font-woff
 
-Uri: https://tuxkarma.co/wp-content/themes/karma/t/Parabole-DisplayRegular.woff2
+Uri: https://tuxkarma.co//assets/t/Parabole-DisplayRegular.woff2
 File Name: C:\Downloaded Web Sites\tuxkarma.co\wp-content\themes\karma\t\Parabole-DisplayRegular.woff2
 Content Type: application/font-woff2
 
-Uri: https://tuxkarma.co/wp-content/themes/karma/video/fond.mp4
+Uri: https://tuxkarma.co//assets/video/fond.mp4
 File Name: C:\Downloaded Web Sites\tuxkarma.co\wp-content\themes\karma\video\fond.mp4
 Content Type: video/mp4
 
