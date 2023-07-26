@@ -461,9 +461,9 @@ button {
     color: #181818
 }
 
-body .home {
-    font: 400 clamp(18px, 1.3888888889vw, 26.6666666667px)/1.5"San Francisco";;
-    background-image: linear-gradient(-45deg, #FFC796 0%, #FF6B95 100%);
+body  {
+font: 400 clamp(18px, 1.3888888889vw, 26.6666666667px)/1.5"San Francisco";
+background-image: linear-gradient(-45deg, rgb(255, 199, 150), rgb(203, 21, 72));
 }
 
 body.toSingle .lettres .tab {
